@@ -1,0 +1,23 @@
+{
+  "name": "node-rgb-led",
+  "version": "1.0.0",
+  "description": "Node JS app that recieves HTTP post to change color on an RGB LED using onoff",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "onoff": "^1.0.3"
+  },
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-rgb-led"
+  },
+  "keywords": [
+    "nodejs",
+    "onoff"
+  ],
+  "author": "Kelly Garrett",
+  "license": "ISC"
+}
